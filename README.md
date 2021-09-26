@@ -1,2 +1,2 @@
-# AMAZON_NPL
-Using NPL on Amazon Dataset
+# AMAZON_NLP
+Using NLP on Amazon Dataset
